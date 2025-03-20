@@ -25,7 +25,7 @@ mvn clean package
 
 Запустите приложение:
 ```sh
-java -jar target/mealapi.jar
+java -jar target/mealapi-1.0-SNAPSHOT.jar
 ```
 
 ---
