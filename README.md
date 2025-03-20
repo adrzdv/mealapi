@@ -16,6 +16,18 @@ git clone https://github.com/adrzdv/mealapi.git
 cd mealapi
 ```
 
+### **Сборка и запуск JAR**
+
+Соберите JAR-файл с помощью Maven:
+```sh
+mvn clean package
+```
+
+Запустите приложение:
+```sh
+java -jar target/mealapi.jar
+```
+
 ---
 
 ## API Endpoints
